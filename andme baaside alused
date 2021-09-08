@@ -6,17 +6,17 @@ tahame teada kas ta on maksnud
 mida klient tahab 
 tooted ja laoseis
                      (tk hind)
-toode:                 hind:            kogus:
-Elitetone arvuti       130               36
-hp klaviatuur          20                36
-hp hiir                15                36
-laud                   30                10
-tooli                  20                36
-projektor              90                1
-tahvel                 70                1
-dell telekat           170               5
-kõlari                 40                2
-seinakell              7                 1
-suitsuandur            25                3
-vana aknen             15                12
-uks                    2                 15
+toode:                 hind:            kogus:            värv:
+Elitetone arvuti       130               36               hallikas
+hp klaviatuur          20                36               must
+hp hiir                15                36               must
+laud                   30                10               melamiin hele
+tooli                  20                36               melamiin hele
+projektor              90                1                hallikas valge
+tahvel                 70                1                valge
+dell telekas           170               5                must
+kõlar                  40                2                must
+seinakell              7                 1                valge
+suitsuandur            25                3                valge
+vana aknen             15                12               valge
+uks                    2                 15               üks o nvalge ja teine pruunikas
