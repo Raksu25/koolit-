@@ -1,0 +1,37 @@
+for ja while
+let canrun = 3
+while (canrun) {
+console.log("test")
+}
+
+let canrun = 3
+while (canrun) {
+console.log("test")
+}
+console.log("lõpp")
+
+let canrun = 3 
+while (canrun) {
+console.log("test")
+canrun = false
+}
+console.log("lõpp")
+
+let canrun = 3 
+while (canrun) {
+console.log("test")
+canrun = false
+}
+console.log("lõpp")
+
+
+// 
+for (let i=0; i<10; i++) {
+    console.log("test")
+}
+console.log("lõpp")
+
+for (let i=0; i<10; i++) {
+    console.log("test"+i)
+}
+console.log("lõpp")
