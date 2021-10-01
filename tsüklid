@@ -17,13 +17,18 @@ canrun = false
 }
 console.log("lõpp")
 
-let canrun = 3 
-while (canrun) {
+let koer = 6 
+while (koer) {
 console.log("test")
-canrun = false
+koer = false
 }
 console.log("lõpp")
 
+let count = 50
+while (count > 1) {
+console.log (count)
+count-=1
+}
 
 // 
 for (let i=0; i<10; i++) {
@@ -35,3 +40,53 @@ for (let i=0; i<10; i++) {
     console.log("test"+i)
 }
 console.log("lõpp")
+
+for (let i=50; i>1; i--) {
+    console.log("test"-i)
+}
+console.log("lõpp")
+
+let arr = [5,8,4,2,3,1];
+for (let i = 0; i arr < arr.lenght; i++ {
+arr[i]++
+}
+
+let arr = [5,8,4,2,3,1];
+for (let i = 0; i < arr.length; i++) {
+  if (arr[i] > 4) {
+    console.log(arr[i])
+  } else {
+    
+  }
+}
+
+for (let i = 0; i < arr.length; i++) {
+  if (arr[i] > 4) {
+    console.log(arr[i])
+  } else {
+    arr[i]++
+  }
+}
+
+for (let i = 0; i < arr.length; i++) {
+  if (arr[i] > 4) {
+    console.log("läks esimene")
+   else 
+   console.log(läks teine")
+  }
+}
+
+let arr = [5,8,4,2,3,1];
+for (let i = 0; i < arr.length; i++) {
+  if (arr[i] > 4)
+    console.log(arr[i]+" on suurem kui 4")
+  else
+    console.log(arr[i]+" on 4 või väiksem")
+  }
+  let onSuuremKuiNeli = 0
+for(let i=0; i<arr.length; i++) {
+  if (arr[i] > 4)
+    onSuuremKuiNeli++
+}
+console.log(onSuuremKuiNeli + " numbrit on suurem kui 4")
+console.log((arr.length - onSuuremKuiNeli) + " numbrit on väiksemad kui 4")
