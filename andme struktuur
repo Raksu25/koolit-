@@ -18,3 +18,25 @@ Kus sa näed end 5 aasta pärast?
 
 
 */
+//Object-Oriented Programming OOP
+//Klass
+
+let tellimus = {
+   kogus: document.querySelector("qasd").value,
+   hind: document.querySelector("qasd").value
+}
+
+class Tellimus{
+    tellijaNimi;
+    tellijaNimi;
+    arveNR;
+    makseTähtaeg;
+    tooted = [];
+
+    saadaarveEmailile(email){
+
+    }
+}
+
+let tellimus = new Tellimus()
+tellimus.arveNr
